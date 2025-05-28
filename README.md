@@ -1,0 +1,3 @@
+本專案由[GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS/tree/main)修改而成
+移除web UI、其他模型搜尋、自訂模型語音生成
+新增多執行續同時推理、intel GPU加速支援
